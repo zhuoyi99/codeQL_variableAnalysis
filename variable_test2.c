@@ -15,5 +15,6 @@ void foo(int i) {
 int main( void ){
 	a = 12;
 	foo(a);
+	a = 45;
 	return 0;
 }
